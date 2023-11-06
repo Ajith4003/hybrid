@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T12:35:26 IST" name="Suite" finished-at="2023-04-04T12:35:52 IST" duration-ms="26234">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T12:35:26 IST" name="Test" finished-at="2023-04-04T12:35:52 IST" duration-ms="26234">
+      <class name="com.automation.testscript.Test_script">
+        <test-method is-config="true" signature="reportcon()[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:26 IST" name="reportcon" finished-at="2023-04-04T12:35:26 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportcon -->
+        <test-method is-config="true" signature="open_browser()[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:26 IST" name="open_browser" finished-at="2023-04-04T12:35:27 IST" duration-ms="1293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_browser -->
+        <test-method is-config="true" signature="open_app()[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:27 IST" name="open_app" finished-at="2023-04-04T12:35:33 IST" duration-ms="5738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_app -->
+        <test-method signature="price(java.lang.String)[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:33 IST" name="price" data-provider="ajith" finished-at="2023-04-04T12:35:52 IST" duration-ms="18794" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ shirt]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- price -->
+        <test-method is-config="true" signature="close_app()[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:52 IST" name="close_app" finished-at="2023-04-04T12:35:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_app -->
+        <test-method is-config="true" signature="close_bro()[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:52 IST" name="close_bro" finished-at="2023-04-04T12:35:52 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_bro -->
+        <test-method is-config="true" signature="reportdis()[pri:0, instance:com.automation.testscript.Test_script@49912c99]" started-at="2023-04-04T12:35:52 IST" name="reportdis" finished-at="2023-04-04T12:35:52 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportdis -->
+      </class> <!-- com.automation.testscript.Test_script -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
